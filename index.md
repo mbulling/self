@@ -1,2 +1,2 @@
 # Mason Bulling
-**bold text**
+**Cornell University / College of Engineering / Computer Science**
