@@ -40,26 +40,3 @@
 
 
 
-
-
-
-
-
-             |
-             |
-<img src="https://www.engineering.cornell.edu/themes/custom/cornell/assets/img/cornell_university-seal_red.svg" width="82" height="82"/> | Cornell University
------------- | ------------- 
-             |
-             
-Content cell 1 | Content cell 2 
-Content column 1 | Content column 2
-
-<details><summary>CLICK ME</summary>
-<p>
-
-    ```ruby
-      puts "Hello World"
-    ```
-
-</p>
-</details>
