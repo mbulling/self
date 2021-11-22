@@ -6,7 +6,7 @@
     <div>
     
     <div>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hflcsd.org%2F&psig=AOvVaw0GU6U9OtWM2fkhFkdLAwIr&ust=1637689504612000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDonPzCrPQCFQAAAAAdAAAAABAD" width="82" height="82"/>
+    <img src="https://cmsv2-assets.apptegy.net/uploads/8730/logo/10189/HF-L-website-logo.png" width="82" height="82"/>
     </div>
 
         
