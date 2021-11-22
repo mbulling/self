@@ -4,6 +4,7 @@
 ![img](https://www.engineering.cornell.edu/themes/custom/cornell/assets/img/cornell_university-seal_red.svg {width=40px height=400px})
 ![img](https://images.squarespace-cdn.com/content/v1/59ec1dc7268b9699fe3a82ce/1513186347267-H13W82BXHFWJI1DE8T6W/venn.png?format=1500w {width=40px height=400px})
 
+<img src="https://images.squarespace-cdn.com/content/v1/59ec1dc7268b9699fe3a82ce/1513186347267-H13W82BXHFWJI1DE8T6W/venn.png?format=1500w" width="64" height="64"/>
              |
 ------------ | ------------- 
              |
