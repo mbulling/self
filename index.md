@@ -25,7 +25,7 @@
     <div>
     
     <div>
-    <img src="https://www.engineering.cornell.edu/themes/custom/cornell/assets/img/cornell_university-seal_red.svg" width="82" height="82"/> <h1>Cornell University>/h1>
+    <img src="https://www.engineering.cornell.edu/themes/custom/cornell/assets/img/cornell_university-seal_red.svg" width="82" height="82"/> <h1>Cornell University</h1>
     </div>
 
         
