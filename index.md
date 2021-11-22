@@ -7,13 +7,13 @@
     
         <br>
     <div>
-    <img src="https://cmsv2-assets.apptegy.net/uploads/8730/logo/10189/HF-L-website-logo.png" width="82" height="82"/><h2>Honeoye Falls-Lima</h2>
+    <br><img src="https://cmsv2-assets.apptegy.net/uploads/8730/logo/10189/HF-L-website-logo.png" width="82" height="82"/><h2>Honeoye Falls-Lima</h2>
     </div>
 
         
       
     <div>
-    <img src="https://images.squarespace-cdn.com/content/v1/59ec1dc7268b9699fe3a82ce/1513186347267-H13W82BXHFWJI1DE8T6W/venn.png?format=1500w" width="82" height="82"/>
+    <br><img src="https://images.squarespace-cdn.com/content/v1/59ec1dc7268b9699fe3a82ce/1513186347267-H13W82BXHFWJI1DE8T6W/venn.png?format=1500w" width="82" height="82"/>
     </div>
     
     
