@@ -1,7 +1,7 @@
 # Mason Bulling
 **Cornell University** College of Engineering **Computer Science**
 
-<div>
+<div style="color: gray;">
 <img src="https://www.engineering.cornell.edu/themes/custom/cornell/assets/img/cornell_university-seal_red.svg" width="82" height="82"/>
 </div>
 
