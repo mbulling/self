@@ -7,7 +7,7 @@
     
         <br>
     <div>
-    <br><img src="https://cmsv2-assets.apptegy.net/uploads/8730/logo/10189/HF-L-website-logo.png" width="82" height="82"/><h2>Honeoye Falls-Lima</h2>
+    <br><img src="https://cmsv2-assets.apptegy.net/uploads/8730/logo/10189/HF-L-website-logo.png" width="82" height="82"/><div><h2>Honeoye Falls-Lima</h2><br><h3>Class of 2021</h3></div>
     </div>
 
         
