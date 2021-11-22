@@ -6,7 +6,7 @@
     <div>
     
     <div>
-    <img src="https://cmsv2-assets.apptegy.net/uploads/8730/logo/10189/HF-L-website-logo.png" width="82" height="82"/>
+    <img src="https://cmsv2-assets.apptegy.net/uploads/8730/logo/10189/HF-L-website-logo.png" width="82" height="82"/><h2>Honeoye Falls-Lima</h2>
     </div>
 
         
