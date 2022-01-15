@@ -1,0 +1,37 @@
+.heading-name-2 {
+    padding-left: 20px;
+    padding-top: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.heading-section-2 {
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+
+.section-title-text {
+    font-size: 15px;
+}
+
+.abs-center-x {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.cornell {
+    background-color: #d52e1f;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.hfl {
+    background-color: black;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
