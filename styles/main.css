@@ -18,6 +18,12 @@ a:active { text-decoration: none; }
     padding-bottom: 50px;
 }
 
+.navbar-toggler-icon {
+    width: 100%;
+    float: none;
+    margin-right: 0;
+  }
+
 .section-title-text {
     font-size: 15px;
 }
