@@ -41,4 +41,45 @@
     padding-bottom: 50px;
 }
 
+.html {
+    background-color: #f95328;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.adobe {
+    background-color: #00005b;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.css {
+    background-color: #3ba7e8;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.python {
+    background-color: #004882;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.flask {
+    background-color: #f6f6f6;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.heroku {
+    background-color: #7629f6;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
 
