@@ -91,7 +91,67 @@ a:hover {
   font-weight: bold;
 }
 
-/* Token colors (VSCode style) */
+.skill {
+  font-size: 0.75rem;
+  /* background-color: #4c93cd; */
+  background-color: #0e5881;
+  padding: 4px;
+  border-radius: 8px;
+  font-family: 'Fira Code', monospace;
+}
+
+.paper {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.95rem;
+  color: #d4d4d4;
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.tooltip-container {
+  display: inline-block;
+  position: relative;
+}
+
+.tooltip-anchor {
+  color: gray;
+  cursor: pointer;
+  font-weight: 100;
+}
+.tooltip-container:hover .tooltip,
+.tooltip:hover {
+  display: block;
+}
+
+.tooltip {
+  display: none;
+  position: absolute;
+  top: 1.5rem;
+  left: 0;
+  background-color: #252526;
+  border: 1px solid #333;
+  padding: 0.75rem;
+  border-radius: 4px;
+  width: max-content;
+  white-space: nowrap;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  z-index: 10;
+}
+
+.tooltip a {
+  display: block;
+  color: #9cdcfe;
+  text-decoration: none;
+  margin-bottom: 0.3rem;
+  font-family: 'Fira Code', monospace;
+}
+
+.tooltip a:hover {
+  text-decoration: underline;
+}
+
+
+
 .token-keyword    { color: #c586c0; }
 .token-string     { color: #ce9178; }
 .token-comment    { color: #6a9955; }
