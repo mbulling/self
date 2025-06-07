@@ -84,6 +84,11 @@ h2 {
 a {
   color: gray;
   font-weight: 100;
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
 }
 
 /* Token colors (VSCode style) */
